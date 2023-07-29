@@ -1,0 +1,15 @@
+C:\Users\jayan\Music\dotnet\BattleSim\bin\Debug\net7.0\BattleSim.exe
+C:\Users\jayan\Music\dotnet\BattleSim\bin\Debug\net7.0\BattleSim.deps.json
+C:\Users\jayan\Music\dotnet\BattleSim\bin\Debug\net7.0\BattleSim.runtimeconfig.json
+C:\Users\jayan\Music\dotnet\BattleSim\bin\Debug\net7.0\BattleSim.dll
+C:\Users\jayan\Music\dotnet\BattleSim\bin\Debug\net7.0\BattleSim.pdb
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.csproj.AssemblyReference.cache
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.AssemblyInfoInputs.cache
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.AssemblyInfo.cs
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.csproj.CoreCompileInputs.cache
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.dll
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\refint\BattleSim.dll
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.pdb
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\BattleSim.genruntimeconfig.cache
+C:\Users\jayan\Music\dotnet\BattleSim\obj\Debug\net7.0\ref\BattleSim.dll
